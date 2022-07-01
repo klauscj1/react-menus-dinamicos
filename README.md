@@ -4,5 +4,6 @@
 
 ```
 cd react-menus-dinamicos
-yarn yarn dev
+yarn
+yarn dev
 ```
